@@ -2,7 +2,7 @@
 
 C program that reads signal parameters, displays a grid of theoretical vs approximated signals, and finds the maximum using dichotomic search.
 
-**Author:** Axel Fouet (375085)
+**Author:** Axel Fouet
 
 ---
 
